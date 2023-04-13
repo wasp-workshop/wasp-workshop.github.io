@@ -131,18 +131,17 @@ keywords: "wasp,esorics,security,attacks,software protection,conference"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2e383f"
-navbar-text-col: "#ececeb"
-navbar-border-col: "#f9a828"
-page-col: "#ececeb"
-text-col: "#2e383f"
-link-col: "#f9a828"
-hover-col: "#0085A1"
-footer-col: "#1a2639"
-footer-text-col: "#2e383f"
-footer-link-col: "#f9a828"
-footer-hover-col: "#0085A1"
-# other colour in palette #07617d
+navbar-col: "#0f4c7a"
+navbar-text-col: "#FFFFFF"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#FA9900"
+footer-col: "#0f4c7a"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#008AFF"
+footer-hover-col: "#FA9900"
 
 # Original values
 #navbar-col: "#EAEAEA"
