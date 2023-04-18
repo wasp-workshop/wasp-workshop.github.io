@@ -5,17 +5,17 @@ title: Call for Papers
 
 ## Important Dates
 
-<table style="background-color:#0F0F0F; color:#F4F4F4">
+<table>
   <tbody>
-    <tr>
+    <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>Paper Submission Deadline</td>
       <td>30th June 2023</td>
     </tr>
-    <tr>
+    <tr style="background-color:#010b13; color:#F4F4F4">
       <td>Notification to authors</td>
       <td>19th August 2023</td>
     </tr>
-    <tr>
+    <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>Camera-ready versions</td>
       <td>10th September 2023</td>
     </tr>
