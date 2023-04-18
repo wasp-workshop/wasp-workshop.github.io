@@ -68,6 +68,9 @@ protection. Possible topics include, but are not limited to:
 
 ## Submission Details
 {: style="text-align: justify"}
+The conference proceedings will be published in the [LNCS series](https://www.springer.com/gp/computer-science/lncs).
+
+{: style="text-align: justify"}
 Submitted papers must not substantially overlap with previously published or currently under
 review papers for journals or conferences.
 The only accepted format for submission is pdf.
