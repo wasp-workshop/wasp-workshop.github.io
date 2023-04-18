@@ -17,7 +17,7 @@ targeting software and the valuable information it holds, leading to significant
 reputational damage to businesses and individuals alike.
 
 {: style="text-align: justify"}
-WASP, aims to bring together experts and researchers in the field of software protection to
+The _Workshop on Attacks and Software Protection_ (_WASP_), aims to bring together experts and researchers in the field of software protection to
 share their insights and ideas on the latest trends, challenges, and opportunities in this area.
 Specifically, WASP focuses on program protection and reverse engineering techniques that
 can be used for both legitimate and malicious purposes, such as malware research and
