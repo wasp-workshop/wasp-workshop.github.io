@@ -11,9 +11,6 @@ layout: page
 ## Workshop on Attacks and Software Protection
 
 {: style="text-align: justify"}
-## Website under construction
-
-{: style="text-align: justify"}
 With the ever-increasing spread of software attacks, the need for software protection has
 become more crucial than ever. In recent years, we have witnessed a rise in cyber attacks
 targeting software and the valuable information it holds, leading to significant financial and
