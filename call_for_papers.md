@@ -81,3 +81,6 @@ The review process is single-blind.
 Failure to comply with these guidelines may lead to rejection without considering the
 content's quality. If accepted, authors must agree to the Springer LNCS copyright and
 present their papers at the workshop.
+
+{: style="text-align: justify"}
+Submission site: [https://easychair.org/conferences/?conf=wasp2023](https://easychair.org/conferences/?conf=wasp2023)
