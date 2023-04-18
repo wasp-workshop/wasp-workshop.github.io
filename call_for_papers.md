@@ -5,9 +5,22 @@ title: Call for Papers
 
 ## Important Dates
 
-| Paper Submission Deadline      | 30th June 2023		    |
-| Notification to authors        | 19th August 2023     |
-| Camera-ready versions          | 10th September 2023  |
+<table style="background-color:#0F0F0F; color:#F4F4F4">
+  <tbody>
+    <tr>
+      <td>Paper Submission Deadline</td>
+      <td>30th June 2023</td>
+    </tr>
+    <tr>
+      <td>Notification to authors</td>
+      <td>19th August 2023</td>
+    </tr>
+    <tr>
+      <td>Camera-ready versions</td>
+      <td>10th September 2023</td>
+    </tr>
+  </tbody>
+</table>
 
 {: style="text-align: justify"}
 *Note*: _all deadlines are Anywhere On Earth (AOE) time_
