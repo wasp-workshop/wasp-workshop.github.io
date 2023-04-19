@@ -3,7 +3,7 @@ layout: page
 ---
 
 ![logo](assets/img/logo.png){:class="img-responsive"}
-![logoesorics](assets/img/logoesorics.png){:class="img-responsive" style="max-width: 50%"}
+![logoesorics](assets/img/esorics.png){:class="img-responsive" style="max-width: 50%"}
 
 {: style="text-align: center"}
 ## WASP @ ESORICS 2023
