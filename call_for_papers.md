@@ -13,7 +13,7 @@ title: Call for Papers
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>Notification to authors</td>
-      <td>3rd August 2023</td>
+      <td>30th July 2023</td>
     </tr>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>Camera-ready versions</td>
