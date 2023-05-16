@@ -68,7 +68,7 @@ protection. Possible topics include, but are not limited to:
 
 ## Submission Details
 {: style="text-align: justify"}
-All accepted papers will be published in the Springer [LNCS series](https://www.springer.com/gp/computer-science/lncs). Extended versions of selected paper will also be invited to a Special Issue (more info will be published soon).
+All accepted papers will be published in the Springer [LNCS series](https://www.springer.com/gp/computer-science/lncs). Extended versions of selected papers will also be invited to a Special Issue (more info will be published soon).
 
 {: style="text-align: justify"}
 Submitted papers must not substantially overlap with previously published or currently under
