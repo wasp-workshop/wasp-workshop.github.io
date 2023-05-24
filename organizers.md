@@ -22,4 +22,5 @@ title: Organizers
 - Nuno Antunes, _University of Coimbra, Portugal_
 - Nuno Neves, _University of Lisbon, Portugal_
 - Pedro Adão, _Instituto Superior Técnico, University of Lisbon, Portugal_
+- Sebastian Schrittwieser, _University of Vienna, Austria_
 - Sébastien Bardin, _Software Safety & Security Lab of CEA, France_
