@@ -9,7 +9,7 @@ title: Call for Papers
   <tbody>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>Paper Submission Deadline</td>
-      <td><s>30th June 2023</s> 9 July 2023</td>
+      <td><s>30th June 2023</s> 9th July 2023</td>
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>Notification to authors</td>
