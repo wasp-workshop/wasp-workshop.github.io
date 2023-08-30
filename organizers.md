@@ -10,7 +10,7 @@ title: Organizers
 - Kim-Kwang Raymond Choo, _University of Texas, San Antonio, USA_
 - Miguel Pupo Correia, _University of Lisbon, Portugal_
 
-## Program Committee (Tentative)
+## Program Committee
 - Claudia Greco, _University of Calabria, Italy_
 - Giulio De Pasquale, _King's College London, United Kingdom_
 - Ibéria Medeiros, _University of Lisbon, Portugal_
