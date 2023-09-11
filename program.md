@@ -5,6 +5,8 @@ title: Program
 
 ## Tentative program
 ### Day 2 (Sept. 29) - Room 1.5
+| Time         | Event |
+|--------------|-------|
 | 8:50 - 9:00  | _Michele Ianni_ - Opening Remarks                               |
 | 9:00 - 9:20  | _Yuanding Zhou_ - Least Information Redundancy Algorithm of Printable Shellcode Encoding for x86 |
 | 9:20 - 9:40  | _Loïc Buckwell, Olivier Gilles, Daniel Gracia Pérez, Nikolai Kosmatov_ - Execution at RISC: Stealth JOP Attacks on RISC-V Applications |
