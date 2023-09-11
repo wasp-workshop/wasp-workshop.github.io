@@ -25,7 +25,7 @@ title: Program
     </tr>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>10:00 - 10:30</td>
-      <td>- Coffee Break</td>
+      <td>Coffee Break</td>
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>10:30 - 10:50</td>
@@ -45,11 +45,7 @@ title: Program
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>12:30 - 13:30</td>
-      <td>- Lunch</td>
-    </tr>
-    <tr style="background-color:#0F0F0F; color:#F4F4F4">
-      <td>13:30 - 15:00</td>
-      <td>- Workshop</td>
+      <td>Lunch</td>
     </tr>
   </tbody>
 </table>
