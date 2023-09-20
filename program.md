@@ -33,15 +33,15 @@ title: Program
     </tr>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>10:50 - 11:10</td>
-      <td><i>Loïc Buckwell, Olivier Gilles, Daniel Gracia Pérez, Nikolai Kosmatov</i> - Execution at RISC: Stealth JOP Attacks on RISC-V Applications</td>
+      <td><i>Daniil Sigalov, Dennis Gamayunov</i> - Finding server-side endpoints with static analysis of client-side JavaScript</td>
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>11:10 - 11:30</td>
-      <td><i>Daniil Sigalov, Dennis Gamayunov</i> - Finding server-side endpoints with static analysis of client-side JavaScript</td>
+      <td><i>Matteo Golinelli, Francesco Bonomi, Bruno Crispo</i> - The Nonce-nce of Web Security: an Investigation of CSP Nonces Reuse</td>
     </tr>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>11:30 - 11:50</td>
-      <td><i>Matteo Golinelli, Francesco Bonomi, Bruno Crispo</i> - The Nonce-nce of Web Security: an Investigation of CSP Nonces Reuse</td>
+      <td><i>Loïc Buckwell, Olivier Gilles, Daniel Gracia Pérez, Nikolai Kosmatov</i> - Execution at RISC: Stealth JOP Attacks on RISC-V Applications</td>
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>12:30 - 13:30</td>
