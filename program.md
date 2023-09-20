@@ -17,7 +17,7 @@ title: Program
     </tr>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>9:20 - 9:40</td>
-      <td><i>Loïc Buckwell, Olivier Gilles, Daniel Gracia Pérez, Nikolai Kosmatov</i> - Execution at RISC: Stealth JOP Attacks on RISC-V Applications</td>
+      <td><i>Janaka Senanayake, Harsha Kumara Kalutarage, Andrei Petrovski, Mhd Omar Al Kadri, Luca Piras</i> - FedREVAN: Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI</td>
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>9:40 - 10:00</td>
@@ -33,7 +33,7 @@ title: Program
     </tr>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
       <td>10:50 - 11:10</td>
-      <td><i>Janaka Senanayake, Harsha Kumara Kalutarage, Andrei Petrovski, Mhd Omar Al Kadri, Luca Piras</i> - FedREVAN: Real-time Detection of Vulnerable Android Source Code through Federated Neural Network with XAI</td>
+      <td><i>Loïc Buckwell, Olivier Gilles, Daniel Gracia Pérez, Nikolai Kosmatov</i> - Execution at RISC: Stealth JOP Attacks on RISC-V Applications</td>
     </tr>
     <tr style="background-color:#010b13; color:#F4F4F4">
       <td>11:10 - 11:30</td>
