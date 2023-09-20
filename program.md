@@ -4,7 +4,7 @@ title: Program
 ---
 
 ## Tentative program
-### Day 2 (Sept. 29) - Room 1.5
+### Day 2 (Sept. 29) - Room 1.6
 <table>
   <tbody>
     <tr style="background-color:#0F0F0F; color:#F4F4F4">
